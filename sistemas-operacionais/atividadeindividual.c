@@ -1,3 +1,10 @@
+/**
+ * Instituição: Universidade Veiga de Almeida
+ * Aluno: Hirvin Nogueira Faria
+ * Titulo: Trabalho de Sistema Operacionais
+ * Descrição: Programa que simula a execução de Threads Concorrentes
+ */
+
 /* 
 * Enunciado:
 * Elabore um programa em qualquer linguagem de programação que evidencie a 
